@@ -13,3 +13,20 @@ models/*.h5
 models/*.keras
 models/*.pkl
 data/*.csv
+
+# Python / ML common
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+.env
+*.egg-info/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
