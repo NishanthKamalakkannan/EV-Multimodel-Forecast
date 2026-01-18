@@ -1,0 +1,15 @@
+# Windows junk
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Python/Node/etc common (add what you use)
+__pycache__/
+node_modules/
+.env
+*.log
+
+models/*.h5
+models/*.keras
+models/*.pkl
+data/*.csv
